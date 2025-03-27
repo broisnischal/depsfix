@@ -1,6 +1,6 @@
 {
   "name": "depsfix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to move @types/* dependencies to devDependencies",
   "bin": {
     "depsfix": "./index.js"
