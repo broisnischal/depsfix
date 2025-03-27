@@ -5,6 +5,9 @@
   "bin": {
     "depsfix": "./index.js"
   },
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "commander": "^13.1.0"
   },
