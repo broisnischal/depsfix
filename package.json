@@ -1,0 +1,13 @@
+{
+  "name": "depsfix",
+  "version": "1.0.0",
+  "description": "CLI tool to move @types/* dependencies to devDependencies",
+  "bin": {
+    "depsfix": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  },
+  "author": "Nischal Dahal",
+  "license": "MIT"
+}
